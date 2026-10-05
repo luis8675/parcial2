@@ -29,6 +29,7 @@ public class Estudiante {
     this.Carnet="";
     this.FirstName="";
     this.SecondName="";
+    this.LastName="";
     this.Direccion="";
     this.Telefono=0;
     this.Carrera="";
